@@ -44,13 +44,13 @@ Este proyecto me está ayudando a aprender y practicar ReactPy junto con FastAPI
 
 Conceptos que estoy practicando
 
-ReactPy
+ReactPy<br>
 Me permite construir interfaces web usando componentes en Python, similar a React pero sin usar JavaScript.
 
-FastAPI
+FastAPI<br>
 Se utiliza como servidor backend para servir la aplicación y renderizar los componentes de ReactPy.
 
-Bootstrap
+Bootstrap<br>
 Se usa para estilizar rápidamente la interfaz y crear un diseño responsivo.
 
 Mi recomendación, siempre pero siempre, busca la documentación y basate en ella.
