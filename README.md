@@ -53,7 +53,7 @@ Se utiliza como servidor backend para servir la aplicación y renderizar los com
 Bootstrap<br>
 Se usa para estilizar rápidamente la interfaz y crear un diseño responsivo.
 
-Mi recomendación, siempre pero siempre, busca la documentación y basate en ella.
+Mi recomendación, siempre, pero siempre, busca la documentación y básate en ella.
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFncGdzMThiNnkyZzd5Z2oyZXJwdnMza2ppbW15ZTNlNzM5Z3RkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Demo del proyecto" />
