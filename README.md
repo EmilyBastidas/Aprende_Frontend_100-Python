@@ -6,7 +6,7 @@ Estoy construyendo el frontend de una página de venta de lentes con el objetivo
 
 - FastAPI
 
--Bootstrap
+- Bootstrap
 
 ReactPy es una librería para construir interfaces web usando Python (puedes encontrarla aquí: reactpy.dev).
 
